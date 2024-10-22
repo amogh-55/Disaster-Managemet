@@ -19,32 +19,47 @@ Before you begin, ensure you have the following installed on your machine:
 
 **Installation and Setup**
 Clone the repository
-**git clone https://github.com/your-username/disaster-management-app.git**
-**cd disaster-management-app**
+--**git clone https://github.com/your-username/disaster-management-app.git**
+
+
+--**cd disaster-management-app**
 
 
 Client Setup
 Navigate to the client directory:
 
-**cd client**
+
+
+--**cd client**
+
+
 Install the required dependencies:
 
 
-**npm install**
+--**npm install**
+
+
 Start the client:
 
-bash:
-**npm start**
+--**npm start**
+
+
 Server Setup
 Navigate to the server directory:
 
-**cd ../server**
+--**cd ../server**
 Install the required dependencies:
-**npm install**
-Start the server:
-**npm start**
 
-Usage
+
+--**npm install**
+
+
+Start the server:
+
+
+--**npm start**
+
+Usage:
 Open the application in your browser.
 Register a rescue agency or log in.
 Use the map interface to view other nearby agencies in real time.
@@ -59,5 +74,6 @@ MongoDB (For storing registered agency data)
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request for review.
 
-License
+License:
+
 This project is licensed under the MIT License.
